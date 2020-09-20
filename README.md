@@ -10,6 +10,8 @@ cd Port-Scanner-With-Python
 
 chmod +x Port_Scanner.py
 
+python -m pip install -r requirements.txt
+
 USAGE :
 
 Python 2.7.18
